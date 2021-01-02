@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
 
@@ -53,11 +52,14 @@
 
 </details>
 
+<br />
+
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="singaltanmay's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=singaltanmay&show_icons=true&hide_border=true" />
 </details>
 
+<br />
 
 <details>
   <summary>:zap: Most used languages</summary>
