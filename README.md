@@ -55,7 +55,12 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="singaltanmay's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=singaltanmay&show_icons=true&hide_border=true" />
-
 </details>
+
+
+<details>
+  <summary>:zap: Most used languages</summary>
+    <img align="left" alt="singaltanmay's most used langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singaltanmay" />
+</details>
+
