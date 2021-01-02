@@ -42,24 +42,27 @@
 <br />
 <br />
 
+
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#30](https://github.com/jamesgeorge007/scaffold-static/pull/30) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+2. 🎉 Merged PR [#214](https://github.com/madlabsinc/mevn-cli/pull/214) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+3. 💪 Opened PR [#214](https://github.com/madlabsinc/mevn-cli/pull/214) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+4. 🎉 Merged PR [#31](https://github.com/jamesgeorge007/scaffold-static/pull/31) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+5. 💪 Opened PR [#31](https://github.com/jamesgeorge007/scaffold-static/pull/31) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
 <!--END_SECTION:activity-->
 
-</details>
-
-<br />
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="singaltanmay's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=singaltanmay&show_icons=true&hide_border=true" />
 </details>
 
-<br />
+---
 
 <details>
   <summary>:zap: Most used languages</summary>
