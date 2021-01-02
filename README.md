@@ -6,10 +6,6 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="tanmaysingaldgswag Spotify Playing" width="350" />](https://open.spotify.com/user/tanmaysingaldgswag)
-
 ### Connect with me:
 
 
