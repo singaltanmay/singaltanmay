@@ -37,16 +37,14 @@
 
 </br>
 
-### :zap: Stats
-
-<img align="left" alt="singaltanmay's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=singaltanmay&show_icons=true&hide_border=true" />
-
-<img align="left" alt="singaltanmay's most used langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singaltanmay" />
-
-</br>
-
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
+
+
+### :zap: Stats
+
+<img align="left" alt="singaltanmay's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=singaltanmay&show_icons=true&hide_border=true" />
+<img align="left" alt="singaltanmay's most used langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singaltanmay" />
