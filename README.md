@@ -32,12 +32,6 @@
 
 </br>
 
-### Recent Activity:
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 ### Stats:
 
 <img align="left" alt="singaltanmay's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=singaltanmay&show_icons=true&hide_border=true" />
